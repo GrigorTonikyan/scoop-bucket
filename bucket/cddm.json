@@ -1,19 +1,22 @@
 {
-  "version": "4.9.1",
+  "version": "4.9.2",
   "description": "Polyglot Code De-Duplication Meister & Autonomous Refactoring Engine",
   "homepage": "https://git.gt-web-dev.com/gt-dev/cddm",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.9.1/cddm-v4.9.1-x86_64-pc-windows-gnu.zip",
-      "hash": "0000000000000000000000000000000000000000000000000000000000000000"
+      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.9.2/cddm-v4.9.2-x86_64-pc-windows-gnu.zip",
+      "hash": "47b97e4b3289d3b5a4c3b0b7a1b9219bdf73dfc9bf7192992bc85bfdb73fc3cf"
     },
     "arm64": {
-      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.9.1/cddm-v4.9.1-aarch64-pc-windows-gnu.zip",
+      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.9.2/cddm-v4.9.2-aarch64-pc-windows-gnu.zip",
       "hash": "0000000000000000000000000000000000000000000000000000000000000000"
     }
   },
-  "bin": ["cddm.exe", "cddm-mcp.exe"],
+  "bin": [
+    "cddm.exe",
+    "cddm-mcp.exe"
+  ],
   "checkver": "github",
   "autoupdate": {
     "architecture": {
