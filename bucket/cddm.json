@@ -1,12 +1,12 @@
 {
-  "version": "4.10.4",
+  "version": "4.10.5",
   "description": "Polyglot Code De-Duplication Meister & Autonomous Refactoring Engine",
   "homepage": "https://git.gt-web-dev.com/gt-dev/cddm",
   "license": "MIT OR Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.10.4/cddm-v4.10.4-x86_64-pc-windows-msvc.zip",
-      "hash": "6f01db4f9ba54251394ab839ac521be7b89ac2947f080ec1394fd6f533eaad1b"
+      "url": "https://git.gt-web-dev.com/gt-dev/cddm/releases/download/v4.10.5/cddm-v4.10.5-x86_64-pc-windows-msvc.zip",
+      "hash": "40a0d6d9622d194655318ec1eee66bad9eba6972b7ecb4abe15152c69fc3a0da"
     }
   },
   "bin": [
